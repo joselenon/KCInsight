@@ -1,0 +1,152 @@
+[
+  {
+    "id": "808f133a-74a1-461b-8c94-1e908b676d17",
+    "examInfo": {
+      "rawText": "Enem 2020 – Caderno Amarelo – Aplicação Digital",
+      "examSlug": "enem",
+      "examVariant": "digital",
+      "examDay": null,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 103,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "biologia",
+    "tags": [
+      { "name": "16 Genética", "slug": "genetica" },
+      { "name": "16.11 Aplicações da Genética", "slug": "aplicacoes_da_genetica" }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o remodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a transcrição.</p><p style=\"font-size:0.64em;text-align:right\">ARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015 (adaptado).</p><p><p>Esses fenômenos atuam na</p></p>",
+    "alternatives": [
+      { "text": "<p>regulação da expressão gênica.</p>", "label": "A" },
+      { "text": "<p>alteração nas sequências de bases.</p>", "label": "B" },
+      { "text": "<p>correção de mutações em determinados genes.</p>", "label": "C" },
+      { "text": "<p>associação dos ribossomos ao RNA mensageiro.</p>", "label": "D" },
+      { "text": "<p>alteração nas sequências dos aminoácidos das histonas.</p>", "label": "E" }
+    ],
+    "correctAlternative": "A",
+    "cancelled": false
+  },
+  {
+    "id": "879c36a3-df07-4690-a59b-7495e2d4a6b5",
+    "examInfo": {
+      "rawText": "Enem 2020 – Caderno Amarelo – Aplicação Digital",
+      "examSlug": "enem",
+      "examVariant": "digital",
+      "examDay": null,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 107,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "biologia",
+    "tags": [
+      { "name": "16 Genética", "slug": "genetica" },
+      { "name": "16.11 Aplicações da Genética", "slug": "aplicacoes_da_genetica" }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Uma nova e revolucionária técnica foi desenvolvida para a edição de genomas. O mecanismo consiste em um sistema de reconhecimento do sítio onde haverá a mudança do gene combinado com um mecanismo de corte e reparo do DNA. Assim, após o reconhecimento do local onde será realizada a edição, uma nuclease corta as duas fitas de DNA. Uma vez cortadas, mecanismos de reparação do genoma tendem a juntar as fitas novamente, e nesse processo um pedaço de DNA pode ser removido, adicionado ou até mesmo trocado por outro pedaço de DNA.</p><p><p>Nesse contexto, uma aplicação biotecnológica dessa técnica envolveria o(a)</p></p>",
+    "alternatives": [
+      { "text": "<p>diagnóstico de doenças.</p>", "label": "A" },
+      { "text": "<p>identificação de proteínas.</p>", "label": "B" },
+      { "text": "<p>rearranjo de cromossomos.</p>", "label": "C" },
+      { "text": "<p>modificação do código genético.</p>", "label": "D" },
+      { "text": "<p>correção de distúrbios genéticos.</p>", "label": "E" }
+    ],
+    "correctAlternative": "E",
+    "cancelled": false
+  },
+  {
+    "id": "c142d594-b44e-4d59-93a5-b236f7a0dcc0",
+    "examInfo": {
+      "rawText": "Enem 2020 2º Dia – Caderno Amarelo – Aplicação Regular",
+      "examSlug": "enem",
+      "examVariant": null,
+      "examDay": 2,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 114,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "biologia",
+    "tags": [
+      { "name": "16 Genética", "slug": "genetica" },
+      { "name": "16.2 Primeira lei de Mendel", "slug": "primeira_lei_de_mendel" }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Os diferentes tipos de café que consumimos nem sempre vêm da mesma espécie de planta. As duas espécies de café mais utilizadas são <em>Coffea canephora</em> e <em>Coffea arabica</em>. A primeira é diploide (2n = 22) e a segunda é tetraploide (2n = 44). Acredita-se que a espécie tetraploide surgiu de um cruzamento natural entre <em>C</em>.<em> canephora </em>e <em>C</em>.<em> eugenioides</em>, ambas diploides, há milhões de anos. De fato, as análises genéticas atuais nos cromossomos de C. arabica detectam os alelos de ambas as origens.</p><p><p>A alteração cromossômica que poderia explicar o surgimento do café da espécie <em>C</em>.<em> arabica </em>é: </p></p>",
+    "alternatives": [
+      { "text": "<p>Duplicação em uma das plantas parentais antes do cruzamento. </p>", "label": "A" },
+      { "text": "<p>Inversão durante a meiose gamética em ambas as plantas parentais. </p>", "label": "B" },
+      { "text": "<p>Separação desigual na meiose gamética de uma das plantas parentais. </p>", "label": "C" },
+      { "text": "<p>Falha na separação durante a meiose gamética em ambas as plantas parentais. </p>", "label": "D" },
+      {
+        "text": "<p>Deleções durante as primeiras mitoses zigóticas na planta descendente <em>C</em>.<em> arabica</em>.</p>",
+        "label": "E"
+      }
+    ],
+    "correctAlternative": null,
+    "cancelled": true
+  },
+  {
+    "id": "597ee0c5-dd9d-47a6-a2c4-eb4804717a4f",
+    "examInfo": {
+      "rawText": "Enem 2020 2º Dia – Caderno Amarelo – Aplicação Regular",
+      "examSlug": "enem",
+      "examVariant": null,
+      "examDay": 2,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 97,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "biologia",
+    "tags": [
+      { "name": "16 Genética", "slug": "genetica" },
+      { "name": "16.11 Aplicações da Genética", "slug": "aplicacoes_da_genetica" }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.</p><p style=\"font-size:0.64em;text-align:right\">Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).</p><p><p>Com base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é: </p></p>",
+    "alternatives": [
+      { "text": "<p>Radioterapia. </p>", "label": "A" },
+      { "text": "<p>Cromoterapia. </p>", "label": "B" },
+      { "text": "<p>Quimioterapia. </p>", "label": "C" },
+      { "text": "<p>Fotoimunoterapia. </p>", "label": "D" },
+      { "text": "<p>Terapia magnética.</p>", "label": "E" }
+    ],
+    "correctAlternative": "D",
+    "cancelled": false
+  },
+  {
+    "id": "b081200d-9eca-4329-b829-f5e3c0676ce8",
+    "examInfo": {
+      "rawText": "Enem 2020 – Caderno Amarelo – Aplicação Digital",
+      "examSlug": "enem",
+      "examVariant": "digital",
+      "examDay": null,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 129,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "biologia",
+    "tags": [
+      { "name": "16 Genética", "slug": "genetica" },
+      { "name": "17 Evolução biológica", "slug": "evolucao_biologica" },
+      { "name": "18 Ecologia", "slug": "ecologia" },
+      { "name": "18.5 Dinâmica de populações", "slug": "dinamica_de_populacoes" }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Os frutos da pupunha têm cerca de 1g em populações silvestres no Acre, mas chegam a 70 g em plantas domesticadas por populações indígenas. No princípio, porém, a domesticação não era intencional. Os grupos humanos apenas identificavam vegetais mais saborosos ou úteis, e sua propagação se dava pelo descarte de sementes para perto dos sítios habitados.</p><p style=\"font-size:0.64em;text-align:right\">DÓRIA, C. A.; VIEIRA, I. C. G. Iguarias da floresta. Ciência Hoje, n. 310, dez. 2013.</p><p><p>A mudança de fenótipo (tamanho dos frutos) nas populações domesticadas de pupunha deuse porque houve</p></p>",
+    "alternatives": [
+      { "text": "<p>introdução de novos genes.</p>", "label": "A" },
+      { "text": "<p>redução da pressão de mutação.</p>", "label": "B" },
+      { "text": "<p>diminuição da uniformidade genética.</p>", "label": "C" },
+      { "text": "<p>aumento da frequência de alelos de interesse.</p>", "label": "D" },
+      { "text": "<p>expressão de genes de resistência a patógenos.</p>", "label": "E" }
+    ],
+    "correctAlternative": "D",
+    "cancelled": false
+  }
+]

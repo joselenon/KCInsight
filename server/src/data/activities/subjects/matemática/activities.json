@@ -1,0 +1,199 @@
+[
+  {
+    "id": "a9ec2262-1dba-4221-8343-35287831a86a",
+    "examInfo": {
+      "rawText": "Enem 2020 – Caderno Amarelo – Aplicação Digital",
+      "examSlug": "enem",
+      "examVariant": "digital",
+      "examDay": null,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 172,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "matematica",
+    "tags": [
+      {
+        "name": "11 Estatística",
+        "slug": "estatistica"
+      }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>Prever a dinâmica populacional de um país é de extrema importância, pois com esse conhecimento as políticas públicas em saúde, educação, habitação e infraestrutura poderão ser executadas sem atraso e de forma eficiente. A linha cheia no gráfico mostra a evolução da população brasileira desde 1950 até 2010, e a extrapolação (previsão) até o ano 2050, representada pela linha tracejada, foi feita com base nos censos demográficos realizados até 2010.</p><p><img alt=\"Imagem da questão\" style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://api.estudino.com/activities/subjects/matematica/images/a9ec2262-1dba-4221-8343-35287831a86a-0.webp\" alt=\"gráfico mostra a evolução dapopulação brasileira desde 1950 até 2010\" /></p><p style=\"font-size:0.64em;text-align:right\">Fonte: IBGE. Projeção da população do Brasil, 2010.</p><p><p>Pelo gráfico apresentado, o intervalo em que se observa aumento da população é</p></p>",
+    "alternatives": [
+      {
+        "text": "<p>1950 a 2010.</p>",
+        "label": "A"
+      },
+      {
+        "text": "<p>1950 a 2040.</p>",
+        "label": "B"
+      },
+      {
+        "text": "<p>1950 a 2050.</p>",
+        "label": "C"
+      },
+      {
+        "text": "<p>2010 a 2040.</p>",
+        "label": "D"
+      },
+      {
+        "text": "<p>2040 a 2050.</p>",
+        "label": "E"
+      }
+    ],
+    "correctAlternative": "B",
+    "cancelled": false
+  },
+  {
+    "id": "010858b4-9309-4105-88a0-4360a1a4573c",
+    "examInfo": {
+      "rawText": "Enem 2020 2º Dia – Caderno Amarelo – Aplicação Regular",
+      "examSlug": "enem",
+      "examVariant": null,
+      "examDay": 2,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 162,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "matematica",
+    "tags": [
+      {
+        "name": "11 Estatística",
+        "slug": "estatistica"
+      },
+      {
+        "name": "11.4 Medidas estatísticas",
+        "slug": "medidas_estatisticas"
+      }
+    ],
+    "difficultyLevel": 1,
+    "questionStemHTML": "<p>Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.</p><p><img alt=\"Imagem da questão\" style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://api.estudino.com/activities/subjects/matematica/images/010858b4-9309-4105-88a0-4360a1a4573c-0.webp\" /></p><p>A agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.</p><p><p>Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa </p></p>",
+    "alternatives": [
+      {
+        "text": "<p>X.</p>",
+        "label": "A"
+      },
+      {
+        "text": "<p>Y.</p>",
+        "label": "B"
+      },
+      {
+        "text": "<p>Z.</p>",
+        "label": "C"
+      },
+      {
+        "text": "<p>W.</p>",
+        "label": "D"
+      },
+      {
+        "text": "<p>T.</p>",
+        "label": "E"
+      }
+    ],
+    "correctAlternative": "C",
+    "cancelled": false
+  },
+  {
+    "id": "18b76687-c0ce-43b4-8b67-634578a2f931",
+    "examInfo": {
+      "rawText": "Enem 2020 2º Dia – Caderno Amarelo – Aplicação Regular",
+      "examSlug": "enem",
+      "examVariant": null,
+      "examDay": 2,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 172,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "matematica",
+    "tags": [
+      {
+        "name": "11 Estatística",
+        "slug": "estatistica"
+      },
+      {
+        "name": "11.4 Medidas estatísticas",
+        "slug": "medidas_estatisticas"
+      }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.</p><p><p>Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?</p></p>",
+    "alternatives": [
+      {
+        "text": "<p>1,96</p>",
+        "label": "A"
+      },
+      {
+        "text": "<p>1,98</p>",
+        "label": "B"
+      },
+      {
+        "text": "<p>2,05</p>",
+        "label": "C"
+      },
+      {
+        "text": "<p>2,06</p>",
+        "label": "D"
+      },
+      {
+        "text": "<p>2,08</p>",
+        "label": "E"
+      }
+    ],
+    "correctAlternative": "D",
+    "cancelled": false
+  },
+
+  {
+    "id": "83a5f63d-edae-4ade-8c95-91ab3fd55ec8",
+    "examInfo": {
+      "rawText": "Enem 2020 – Caderno Amarelo – Aplicação Digital",
+      "examSlug": "enem",
+      "examVariant": "digital",
+      "examDay": null,
+      "examColor": "amarelo"
+    },
+    "positionInExam": 170,
+    "sourceExam": "enem",
+    "examYear": "2020",
+    "disciplineSlug": "matematica",
+    "tags": [
+      {
+        "name": "4 Matemática financeira",
+        "slug": "matematica_financeira"
+      },
+      {
+        "name": "11 Estatística",
+        "slug": "estatistica"
+      }
+    ],
+    "difficultyLevel": 2,
+    "questionStemHTML": "<p>O Índice de Desenvolvimento da Educação Básica (Ideb), criado para medir a qualidade do aprendizado do ensino básico no Brasil, é calculado a cada dois anos. No seu cálculo são combinados dois indicadores: o aprendizado e o fluxo escolar, obtidos a partir do Censo Escolar e das avaliações oficiais promovidas pelo Inep.</p><p>O Ideb de uma escola numa dada série escolar pode ser calculado pela expressão</p><p>Ideb = N × P,</p><p>em que N é a média da proficiência em língua portuguesa e matemática, obtida a partir do Sistema de Avaliação da Educação Básica (Saeb), e variando de 0 a 10. O indicador P, que varia de 0 a 1, por sua vez, refere-se ao fluxo escolar, pois considera as taxas de aprovação e reprovação da instituição, sendo calculado por</p><p><span class=\"math\"><math><semantics><mrow><mi>P</mi><mo>=</mo><mfrac><mn>1</mn><mi>T</mi></mfrac><mo>,</mo></mrow><annotation>P=\\frac{1}{T},</annotation></semantics></math></span></p><p>em que T é o tempo médio de permanência dos alunos na série.</p><p style=\"font-size:0.64em;text-align:right\">Disponível em: www.inep.gov.br. Acesso em: 2 ago. 2012.</p><p><p>Uma escola apresentou no 9º ano do ensino fundamental, em 2017, um Ideb diferente daquele que havia apresentado nessa mesma série em 2015, pois o tempo médio de permanência dos alunos no 9º ano diminuiu 2%, enquanto a média de proficiência em língua portuguesa e matemática, nessa série, aumentou em 2%.</p><p>Dessa forma, o Ideb do 9º ano do ensino fundamental dessa escola em 2017, em relação ao calculado em 2015,</p></p>",
+    "alternatives": [
+      {
+        "text": "<p>permaneceu inalterado, pois o aumento e a diminuição de 2% nos dois parâmetros anulam-se.</p>",
+        "label": "A"
+      },
+      {
+        "text": "<p>aumentou em 4%, pois o aumento de 2% na média da proficiência soma-se à diminuição de 2% no tempo médio de permanência dos alunos na série.</p>",
+        "label": "B"
+      },
+      {
+        "text": "<p>diminuiu em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam dois decréscimos consecutivos de 2% no valor do Ideb.</p>",
+        "label": "C"
+      },
+      {
+        "text": "<p>aumentou em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam dois acréscimos consecutivos de 2% no valor do Ideb.</p>",
+        "label": "D"
+      },
+      {
+        "text": "<p>aumentou em 4,08%, pois houve um acréscimo de 2% num parâmetro que é diretamente proporcional e um decréscimo de 2% num parâmetro que é inversamente proporcional ao Ideb.</p>",
+        "label": "E"
+      }
+    ],
+    "correctAlternative": "E",
+    "cancelled": false
+  }
+]

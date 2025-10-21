@@ -1,0 +1,26 @@
+const DISCIPLINE_COLOR_FROM_SLUG: { [disciplineSlug: string]: string } = {
+  historia: '#5f4330ff',
+  biologia: '#3c5837ff',
+  portugues: '#be813aff',
+  arte: '#4b998fff',
+  artes: '#4b998fff',
+  espanhol: '#2E2D2D',
+  filosofia: '#3b3c88ff',
+  fisica: '#41538dff',
+  geografia: '#7a5f40ff',
+  ingles: '#2E2D2D',
+  literatura: '#837a3bff',
+  matematica: '#a83a3aff',
+  quimica: '#6b4a94ff',
+  sociologia: '#4a583eff',
+  'artes-cenicas': '#425370ff',
+  'artes-plasticas': '#3e567cff',
+  'artes-visuais': '#3e5375ff',
+  'educacao-fisica': '#407565ff',
+  'educacao-artistica': '#5e4270ff',
+  'historia-e-geografia-de-estados-e-municipios': '#7a4364ff',
+  atualidades: '#3c6670ff',
+  '': 'var(--color-2)',
+};
+
+export { DISCIPLINE_COLOR_FROM_SLUG };

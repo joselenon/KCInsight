@@ -1,0 +1,9 @@
+node_modules
+.env
+build
+src/assets/cardImages
+src/assets/userAvatars
+jest.config.ts
+.VSCodeCounter
+
+src/services/sm2Test.ts
